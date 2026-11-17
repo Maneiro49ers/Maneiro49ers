@@ -1,47 +1,19 @@
 <div align="center">
 
-<<<<<<< HEAD
 <img src="assets/header.svg" width="100%" alt="Juan Maneiro, Full Stack Developer"/>
-=======
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,50:0e7490,100:10b981&height=200&section=header&text=Juan%20Maneiro&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Information%20Systems%20%C2%B7%20IoT%20Automation&descSize=17&descAlignY=58" width="100%" alt="Juan Maneiro, Full Stack Developer"/>
->>>>>>> 549196574e02a0d75a7c08ab5ff60b2c56fe2a97
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=0E7490&center=true&vCenter=true&width=640&height=40&lines=I+build+information+systems+end+to+end;React+%C2%B7+NestJS+%C2%B7+Spring+Boot+%C2%B7+.NET;ESP32+automation+with+the+Arduino+IDE;Exploring+multi-agent+AI+and+inference" alt="Typing animation"/>
 
 <a href="https://www.telzzon.com/"><img src="https://img.shields.io/badge/Telzzon-Live-0e7490?style=flat-square&logo=googlechrome&logoColor=white" alt="Telzzon"/></a>
 <a href="https://inversioneskaza.com/"><img src="https://img.shields.io/badge/Inversiones_Kaza-Live-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="Inversiones Kaza"/></a>
-<<<<<<< HEAD
 <img src="https://img.shields.io/badge/Experience-2%2B_years-0b3d91?style=flat-square" alt="2+ years of experience"/>
-=======
-<img src="https://img.shields.io/badge/Full_Stack-2%2B_years-0b3d91?style=flat-square" alt="2+ years full stack"/>
->>>>>>> 549196574e02a0d75a7c08ab5ff60b2c56fe2a97
 <img src="https://komarev.com/ghpvc/?username=Maneiro49ers&label=Profile%20views&color=0e7490&style=flat-square" alt="Profile views"/>
 
 </div>
 
-<<<<<<< HEAD
 ### 👋 About me
 
 I'm **Juan Maneiro**, a Computer Science student and **full stack developer** with **2+ years of experience**. I design and build **information systems** end to end, from the database to the interface. I also bring software into the physical world with **ESP32 automation systems** programmed in the Arduino IDE, and I use AI tools every day to build faster and with better quality.
-=======
-### 📈 Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maneiro49ers/Maneiro49ers/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maneiro49ers/Maneiro49ers/output/snake-light.svg"/>
-  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/Maneiro49ers/Maneiro49ers/output/snake-light.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-### 👋 About me
-
-I'm **Juan Maneiro**, a Computer Science student and **full stack developer**. I design and build **information systems** end to end, from the database to the interface. I also bring software into the physical world with **ESP32 automation systems** programmed in the Arduino IDE, and I use AI tools every day to build faster and with better quality.
->>>>>>> 549196574e02a0d75a7c08ab5ff60b2c56fe2a97
 
 <table>
 <tr>
@@ -49,11 +21,7 @@ I'm **Juan Maneiro**, a Computer Science student and **full stack developer**. I
 
 **💼 Experience**
 
-<<<<<<< HEAD
 - **Telzzon** · Full stack<br/><sub>Website with an integrated ticketing system. [telzzon.com](https://www.telzzon.com/)</sub>
-=======
-- **Telzzon** · Full stack · 2 years<br/><sub>Website with an integrated ticketing system. [telzzon.com](https://www.telzzon.com/)</sub>
->>>>>>> 549196574e02a0d75a7c08ab5ff60b2c56fe2a97
 - **Inversiones Kaza** · Frontend<br/><sub>Responsive UI and UX/UI design with Vite and Tailwind CSS. [inversioneskaza.com](https://inversioneskaza.com/)</sub>
 
 </td>
@@ -91,11 +59,7 @@ I'm **Juan Maneiro**, a Computer Science student and **full stack developer**. I
 
 | | Project | Description |
 |:-:|---|---|
-<<<<<<< HEAD
 | 🎟️ | **[Telzzon](https://www.telzzon.com/)** | Website with an integrated ticketing system. Full stack development. |
-=======
-| 🎟️ | **[Telzzon](https://www.telzzon.com/)** | Website with an integrated ticketing system. Full stack, 2 years. |
->>>>>>> 549196574e02a0d75a7c08ab5ff60b2c56fe2a97
 | 🏢 | **[Inversiones Kaza](https://inversioneskaza.com/)** | Corporate website. Frontend and UX/UI with Vite and Tailwind CSS. |
 | 🏨 | **Hotel Management System** 🔒 | Information system for hotel operations. |
 | 🧪 | **Laboratory System** 🔒 | Information system for laboratory management. |
@@ -108,7 +72,6 @@ I'm **Juan Maneiro**, a Computer Science student and **full stack developer**. I
 
 <sub>🔒 Private repository, listed as a reference of my work.</sub>
 
-<<<<<<< HEAD
 ### 📈 Contributions
 
 <div align="center">
@@ -121,6 +84,5 @@ I'm **Juan Maneiro**, a Computer Science student and **full stack developer**. I
 
 </div>
 
-=======
->>>>>>> 549196574e02a0d75a7c08ab5ff60b2c56fe2a97
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:0e7490,100:0b3d91&height=100&section=footer" width="100%" alt=""/>
+
