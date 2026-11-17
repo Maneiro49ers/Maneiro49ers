@@ -1,120 +1,125 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,50:0e7490,100:10b981&height=220&section=header&text=Juan%20Maneiro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descSize=20&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b3d91,50:0e7490,100:10b981&height=260&section=header&text=Juan%20Maneiro&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Information%20Systems%20%C2%B7%20IoT%20Automation&descSize=18&descAlignY=62" width="100%" alt="Juan Maneiro"/>
 
 <a href="https://github.com/Maneiro49ers">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Full+Stack+Development+(React+%C2%B7+Spring+Boot+%C2%B7+NestJS);Information+systems+built+end+to+end;Automation+with+ESP32+and+Arduino+IDE;AI-assisted+development+workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9A%80+I+build+information+systems+end+to+end;%E2%9A%9B%EF%B8%8F+React+%C2%B7+Spring+Boot+%C2%B7+NestJS+%C2%B7+.NET;%F0%9F%94%8C+ESP32+automation+with+the+Arduino+IDE;%F0%9F%A4%96+Multi-agent+AI+%26+inference+systems;%E2%9C%A8+Clean+code%2C+polished+UX%2FUI" alt="Typing animation" />
 </a>
+
+<br/><br/>
+
+<a href="https://www.telzzon.com/"><img src="https://img.shields.io/badge/🎟️_Telzzon-Live_project-0e7490?style=for-the-badge" alt="Telzzon"/></a>
+<a href="https://inversioneskaza.com/"><img src="https://img.shields.io/badge/🏢_Inversiones_Kaza-Live_project-10b981?style=for-the-badge" alt="Inversiones Kaza"/></a>
+<img src="https://img.shields.io/badge/🎓_Computer_Science-Student-0b3d91?style=for-the-badge" alt="Computer Science student"/>
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Maneiro49ers&label=Profile%20views&color=0e7490&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Maneiro49ers?label=Followers&style=flat-square&logo=github)
+<img src="https://komarev.com/ghpvc/?username=Maneiro49ers&label=Profile%20views&color=0e7490&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Maneiro49ers?label=Followers&style=flat-square&logo=github&color=10b981" alt="Followers"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d91,50:0e7490,100:10b981&height=3&section=header" width="100%" alt="divider"/>
 
-## 👨‍💻 About me
+## 👋 About me
 
-I'm **Juan Maneiro**, a Computer Science student and **full stack developer**. I design and build **information systems** end to end, and I'm passionate about **automation systems with ESP32 microcontrollers**, programmed with the Arduino IDE. I use AI tools to speed up and improve my development workflow.
+> *"Good software is invisible: it just works, and it feels great to use."*
 
-- 🌐 Full stack developer on **Telzzon**, a ticketing system: [telzzon.com](https://www.telzzon.com/)
-- 🎨 Frontend developer on **Inversiones Kaza**: [inversioneskaza.com](https://inversioneskaza.com/)
-- 🔌 Automation and IoT with **ESP32** (Arduino IDE)
-- 🌱 Exploring: **multi-agent AI systems**, **inference** and **automation**
+I'm **Juan Maneiro**, a Computer Science student and **full stack developer**. I design and build **information systems** end to end, from the database to the interface, and I love bringing software to the physical world with **ESP32 automation systems** programmed in the Arduino IDE. I also work daily with AI tools to build faster and better.
 
-## 🛠️ Tech stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Languages**
+### 💼 Experience
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+- 🎟️ **2 years** · Full stack developer at **[Telzzon](https://www.telzzon.com/)**: a website with an integrated ticketing system.
+- 🏢 **Frontend developer** at **[Inversiones Kaza](https://inversioneskaza.com/)**: responsive interfaces and UX/UI design with Vite, Tailwind CSS, HTML and CSS.
 
-**Frontend and mobile**
+</td>
+<td width="50%" valign="top">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🔭 Currently exploring
 
-**Backend**
+- 🤖 Multi-agent AI systems
+- 🧠 Inference systems
+- ⚙️ Automation and IoT with ESP32
+- 🧰 AI-assisted development with Claude, Codex and OpenCode
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+</td>
+</tr>
+</table>
 
-**Databases**
+## 🧰 Tech stack
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+<div align="center">
 
-**Deployment and infrastructure**
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,java,py,c,cpp,cs&perline=7" alt="Languages"/></a>
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,figma&perline=6" alt="Frontend"/></a>
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,prisma&perline=5" alt="Backend"/></a>
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase&perline=4" alt="Databases"/></a>
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,vercel,linux,git,github,postman&perline=6" alt="DevOps"/></a>
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,vscode&perline=2" alt="Hardware"/></a>
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
-**API testing**
+<details>
+<summary><b>📚 See the full list</b></summary>
+<br/>
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Languages:** JavaScript · TypeScript · Java · Python · C · C++ · C#
 
-**Hardware and IoT**
+**Frontend and mobile:** React · React Native · Vite · Tailwind CSS · HTML · CSS · UX/UI design
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+**Backend:** Node.js · NestJS · Spring Boot · .NET · Prisma
 
-**AI tools**
+**Databases and cloud:** PostgreSQL · MySQL · Neon · Supabase · Firebase
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge)
+**Infrastructure and testing:** Docker · VPS · Vercel · Git · Postman
 
-## 📌 Featured projects
+**Hardware:** ESP32 · Arduino IDE
 
-| Project | Description |
-|---|---|
-| 🎟️ **[Telzzon](https://www.telzzon.com/)** | Ticketing information system and website. Full stack role. |
-| 🏢 **[Inversiones Kaza](https://inversioneskaza.com/)** | Frontend development of the corporate website. |
-| 🏨 **Hotel Management System** | Information system for hotel management. *(private repository)* |
-| 🧪 **Laboratory System** | Information system for laboratory management. *(private repository)* |
-| 🥋 **Kaizen System** | Kaizen information system and its website. *(private repository)* |
-| 🌱 **Greenhouse Automation** | Greenhouse automation system built on ESP32 with the Arduino IDE. *(private repository)* |
-| 📐 **Simulation and Modeling** | Simulation and modeling system. *(private repository)* |
-| 🤖 **Multi-Agent AI Learning Tools** | Learning tools powered by multiple AI agents. *(private repository)* |
-| 🧠 **Inference System** | Inference system. *(private repository)* |
-| ⚙️ **Automation System** | Automation system. *(private repository)* |
+**AI tools:** Claude · Codex · OpenCode
 
-> Most of these repositories are private; they are listed here as a reference of my experience.
+</details>
+
+## 🚀 Featured projects
+
+<div align="center">
+
+| | Project | What it is |
+|:-:|---|---|
+| 🎟️ | **[Telzzon](https://www.telzzon.com/)** | Website with an integrated ticketing system. Full stack, 2 years. |
+| 🏢 | **[Inversiones Kaza](https://inversioneskaza.com/)** | Corporate website: frontend, UX/UI, Vite and Tailwind CSS. |
+| 🏨 | **Hotel Management System** 🔒 | Information system for hotel management. |
+| 🧪 | **Laboratory System** 🔒 | Information system for laboratory management. |
+| 🥋 | **Kaizen System** 🔒 | Kaizen information system and its website. |
+| 🌱 | **Greenhouse Automation** 🔒 | ESP32 automation system programmed with the Arduino IDE. |
+| 📐 | **Simulation and Modeling** 🔒 | Simulation and modeling system. |
+| 🤖 | **Multi-Agent AI Learning Tools** 🔒 | Learning tools powered by multiple AI agents. |
+| 🧠 | **Inference System** 🔒 | Inference system. |
+| ⚙️ | **Automation System** 🔒 | Automation system. |
+
+<sub>🔒 Private repository, listed as a reference of my experience.</sub>
+
+</div>
 
 ## 📊 GitHub stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Maneiro49ers&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneiro49ers&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Maneiro49ers&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Maneiro49ers&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=2dd4bf&icon_color=10b981" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneiro49ers&layout=compact&theme=tokyonight&hide_border=true&title_color=2dd4bf" alt="Top languages"/>
 
 </div>
 
-## 📈 Contributions in the last year
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maneiro49ers&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%"/>
-
-<img src="https://ghchart.rshah.org/2dd4bf/Maneiro49ers" alt="Contribution chart" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:0b3d91&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:0e7490,100:0b3d91&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%" alt="footer"/>
 
 </div>
