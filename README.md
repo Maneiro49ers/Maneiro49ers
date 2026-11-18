@@ -13,7 +13,7 @@
 
 ### 👋 About me
 
-I'm **Juan Maneiro**, a Computer Science student and **full stack developer** with **2+ years of experience**. I design and build **information systems** end to end, from the database to the interface. I also bring software into the physical world with **ESP32 automation systems** programmed in the Arduino IDE, and I use AI tools every day to build faster and with better quality.
+I'm **Juan Maneiro**, a Computer Science student and ** Jr full stack developer** with **2+ years of experience**. I design and build **information systems** end to end, from the database to the interface. I also bring software into the physical world with **ESP32 automation systems** programmed in the Arduino IDE, and I use AI tools every day to build faster and with better quality.
 
 <table>
 <tr>
