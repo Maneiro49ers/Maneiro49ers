@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Juan Maneiro, Full Stack Developer"/>
+<img src="assets/header.svg" width="100%" alt="Juan Maneiro, Jr Full Stack Developer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=0E7490&center=true&vCenter=true&width=640&height=40&lines=I+build+information+systems+end+to+end;React+%C2%B7+NestJS+%C2%B7+Spring+Boot+%C2%B7+.NET;ESP32+automation+with+the+Arduino+IDE;Exploring+multi-agent+AI+and+inference" alt="Typing animation"/>
 
